@@ -1,5 +1,5 @@
 <H3>Enter NameVINOTH M P</H3>
-<H3>Enter Register No.2122232400182</H3>
+<H3>Enter Register No.212223240182</H3>
 <H3>Experiment 2</H3>
 <H3>Date:20.09.25</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
